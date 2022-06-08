@@ -1,6 +1,6 @@
 # SEO Link Analyzer
 
-This is my attempt on the SEO Link Analyzer project from boot.dev
+This is my attempt on the SEO Link Analyzer project from boot.dev written in Python 3.
 
 ## Environment Setup
 1. Make sure that you have Python 3.8 and above.
