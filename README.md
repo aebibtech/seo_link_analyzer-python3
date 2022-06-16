@@ -8,4 +8,4 @@ This is my attempt on the SEO Link Analyzer project from boot.dev written in Pyt
 3. On your command line, `cd` to the directory where you cloned this repo.
 4. Create a virtual environment for running this repo by running `python3 -m venv venv`.
 5. Run `pip3 install -r requirements.txt`.
-6. Run `python3 main.py <url>`.
+6. Run `python3 main.py <url>`. Example: `python3 main.py https://aebibtech.com`
